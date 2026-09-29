@@ -253,15 +253,15 @@ public class Assignment : MonoBehaviour
         switch (as10WeaponType)
         {
             case "Sword":
-                damage += 10;
+                damage += 20;
                 break;
 
             case "Bow":
-                damage += 5;
+                damage += 10;
                 break;
 
             case "Gun":
-                damage += 15;
+                damage += 50;
                 break;
 
             default:
