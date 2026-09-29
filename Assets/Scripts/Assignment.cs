@@ -272,10 +272,6 @@ public class Assignment : MonoBehaviour
         Debug.Log("Damage: " + damage);
     }
 
-
-    // =========================
-    // AS11 - Determine Player Rank
-    // =========================
     public int as11Score;
     public int as11CompletionTime;
 
